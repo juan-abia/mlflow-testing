@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/115897018556407516/fe6207137d20457aaa86b471dadb3e8f/artifacts
+end_time: 1701163272405
+entry_point_name: ''
+experiment_id: '115897018556407516'
+lifecycle_stage: active
+run_id: fe6207137d20457aaa86b471dadb3e8f
+run_name: apples_rf_test
+run_uuid: fe6207137d20457aaa86b471dadb3e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701163271047
+status: 3
+tags: []
+user_id: jabia

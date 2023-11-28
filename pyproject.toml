@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mlflow-testing"
+version = "0.0.1"
+description = ""
+authors = ["juan-abia <juan.abia@ailylabs.com>"]
+readme = "README.md"
+packages = [{include = "mlflow-testing"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mlflow = "^2.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
